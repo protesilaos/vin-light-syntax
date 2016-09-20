@@ -1,0 +1,18 @@
+{
+  "name": "vin-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Inspired by grapes. Medium contrast theme with vivid colours.",
+  "keywords": [
+    "syntax",
+    "violet",
+    "green",
+    "red",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/vin-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
