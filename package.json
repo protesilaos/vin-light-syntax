@@ -2,11 +2,11 @@
   "name": "vin-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Inspired by grapes. Medium contrast theme with vivid colours.",
+  "description": "Medium contrast theme. Inspired by vinyards and grapes.",
   "keywords": [
     "syntax",
-    "violet",
     "green",
+    "violet",
     "red",
     "light"
   ],
