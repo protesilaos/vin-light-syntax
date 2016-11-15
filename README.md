@@ -8,9 +8,9 @@ Medium contrast theme inspired by vinyards and grapes. Its most prevalent colour
 
 ![vin light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_sample.png)
 
-*The font is [Hack](https://github.com/chrissimpkins/Hack)*.  
-*Demo JS by http://codemirror.net/mode/javascript/index.html*  
-*The UI theme is https://atom.io/themes/atom-material-ui*.
+*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
+*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
+*The UI is my experimental fork of the default One Dark*.
 
 ## Download
 

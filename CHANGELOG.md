@@ -23,3 +23,8 @@
   - `primary2` from `gre` to `vio`
   - `tertiary1` from `ora` to `blu`
   - `tertiary2` from `blu` to `ora`
+
+## 1.1.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
