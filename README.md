@@ -6,11 +6,16 @@ Medium contrast theme inspired by vinyards and grapes. Its most prevalent colour
 
 ## Screenshots
 
-![vin light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_sample.png)
+![vin light screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![vin light screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_scss.png)
+
+![vin light screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_js.png)
+
+![vin light screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/vin/img/vin_light_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
